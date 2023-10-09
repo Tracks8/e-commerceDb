@@ -2,15 +2,18 @@
     "prodotti": [
         {
             "nome": "prod1",
-            "descr": "descr1"
+            "descrizione": "descr1",
+            "Email":"nome1.cognome@gmail1.com"
         },
         {
             "nome": "prod2",
-            "descr": "descr2"
+            "descrizione": "descr2",
+            "Email":"nome2.cognome2@gmail.com"
         },
         {
             "nome": "prod3",
-            "descr": "descr3"
+            "descrizione": "descr3",
+            "Email":"nome3.cognome3@gmail.com"
         }
     ]
 }
