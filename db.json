@@ -3,17 +3,17 @@
         {
             "nome": "prod1",
             "descrizione": "descr1",
-            "prezzo":"prezzo1"
+            "prezzo": 11
         },
         {
             "nome": "prod2",
             "descrizione": "descr2",
-            "prezzo":"prezzo2"
+            "prezzo": 12
         },
         {
             "nome": "prod3",
             "descrizione": "descr3",
-            "prezzo":"prezzo3"
+            "prezzo": 13
         }
     ]
 }
