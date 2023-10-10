@@ -3,17 +3,17 @@
         {
             "nome": "prod1",
             "descrizione": "descr1",
-            "Email":"nome1.cognome1@gmail1.com"
+            "prezzo":"prezzo1"
         },
         {
             "nome": "prod2",
             "descrizione": "descr2",
-            "Email":"nome2.cognome2@gmail.com"
+            "prezzo":"prezzo2"
         },
         {
             "nome": "prod3",
             "descrizione": "descr3",
-            "Email":"nome3.cognome3@gmail.com"
+            "prezzo":"prezzo3"
         }
     ]
 }
